@@ -40,12 +40,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuCassporki&theme=github_dark" />
 </div>
 
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LuCassporki&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
-
-
 <div align="center">
 
 | Langage / Techno | Domaine d'Application HDO |
@@ -56,6 +50,12 @@
 | **Python** | Outillage, Scripts & Traitement de données |
 
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LuCassporki&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</div>
+
+
 
 
 ---
