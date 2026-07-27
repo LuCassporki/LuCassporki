@@ -45,9 +45,6 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LuCassporki&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuCassporki&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
 
 <div align="center">
 
