@@ -48,7 +48,7 @@
 <div align="center">
   <p><b>SYSTEM CONNECTIONS</b></p>
  <a href="https://stoker-porki.vercel.app/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&pause=500&color=FF0055&center=true&vCenter=true&width=400&lines=%5B%20%21%20%5D+MAJOR+INVENTORY+%5B%20%21%20%5D;%3E%3E+ACCESS_RESTRICTED+%3E%3E_%3B%5B%20%21%20%5D+MAJOR+INVENTORY+%3B%5B%20%21%20%5D" alt="Major Inventory Glitch" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&pause=500&color=FF0055&center=true&vCenter=true&width=400&lines=%5B%20%21%20%5D+MAJOR+INVENTORY+%5B%20%21%20%5D;%3E%3E+ACCESS_RESTRICTED+%3E%3E_%3B%5B%20%21%20%5D+MAJOR+INVENTORY%3B%5B%20%21%20%5D" alt="Major Inventory Glitch" />
   </a>
   <br><br>
   <a href="https://space-tree-core.vercel.app/" style="text-decoration: none;">
