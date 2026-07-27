@@ -83,6 +83,32 @@
 
 
 
+<!-- ACCÈS SECURISE HDO -->
+<div align="center">
+
+  <p><b>SYSTEM CONNECTIONS</b></p>
+
+  <!-- MAJOR INVENTORY (GLITCH ACCESS) -->
+  <a href="https://stoker-porki.vercel.app/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=16&pause=800&color=FF2E63&center=true&vCenter=true&width=320&lines=%E2%98%A0%EF%B8%8F+MAJOR+INVENTORY+%5BGLITCHED%5D;%3E%3E+LOAD_STOKER_DATA..." alt="Major Inventory" />
+  </a>
+
+  <br><br>
+
+  <!-- ATOME CORE CONTACTS -->
+  <a href="https://space-tree-core.vercel.app/">
+    <img src="https://img.shields.io/badge/%E2%9A%9B%EF%B8%8F_ATOME_ELEMENTAIRE-COMMUNICATION_HUB-00f0ff?style=for-the-badge&logoColor=white&labelColor=050b14" alt="Atome Core" />
+  </a>
+
+</div>
+
+
+
+
+
+
+
+
 ### 📊 Télémétrie GitHub
 
 <div align="center">
