@@ -43,8 +43,17 @@
 
  <div align="center">
  <p><i>Alpha Lambda Iota Gamma Epsilon</i></p>
-<a href="https://stoker-porki.vercel.app/">MAJOR INVENTORY</a> <br>
-<a href="https://space-tree-core.vercel.app/">⚛</a>
+<!-- LINK 1 : MAJOR INVENTORY (Bouton Glitch / Dark Red & Cyan) -->
+  <a href="https://stoker-porki.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/☠️_MAJOR_INVENTORY-CRITICAL_ACCESS-ff0055?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="Major Inventory" />
+  </a>
+
+  &nbsp;&nbsp;
+
+  <!-- LINK 2 : ATOME ELEMENTAIRE (Bouton Atom / Cyan Neon) -->
+  <a href="https://stoker-porki.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/⚛️_ATOME_ELEMENTAIRE-CORE_CONTACTS-00f0ff?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="Atome Elementaire" />
+  </a>
 </div>
 
 ### 📊 Télémétrie GitHub
