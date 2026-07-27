@@ -4,28 +4,38 @@
   <!-- TITRE ANIMÉ NÉON -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=⚡+ALEXANDER+%2F%2F+HDO+ARCHITECT+⚡;HOPE+DREAM+ODYSSEY+ECOSYSTEM;STAY+HUMAN+%2F%2F+UNITY+C%23+DEV;HOP+AI+%2F%2F+ADAPTIVE+HUD+SYSTEM" alt="Header Typing" />
 
-  <p><i>"Forger l'armure, perfectionner la lumière."</i></p>
+  <p><i>"Forger l'armure, parfaire la lumière."</i></p>
 
   <!-- BADGES DE TECHNO COLORÉS -->
+  <!-- BADGES DE LANGAGES & OUTILS -->
   <p>
-   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   </p>
+
+  
+  <p><i>Web & Game Development | System Architecture | Adaptive AI Research</i></p>
 
 </div>
 
 <!-- SÉPARATEUR NÉON -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a425-11eb-892c-170a23ac6180.gif" width="100%" />
 
-### 🌌 Écosystème & Projets HDO
+---
 
-> 👾 **Stay Human** — RPG Spatial sous Unity (C#) & mécanique d'exploration.  
-> ⚛️ **Hop AI & HUD System** — Interface compagnon adaptative & architecture WebOS multi-écrans.  
-> ⚙️ **R&D Lab** — Expérimentations polyglottes (C, C++, Python, JS, Web APIs, RBAC & Cloud Database).  
+### 🌌 Écosystème & Projets HDO 🚀
+
+- 🌌 **HDO (Hope Dream Odyssey)** : Conception d'un écosystème multi-plateforme interconnecté.
+- 👾 **Stay Human** : Développement d'un jeu Space war sous Unity (C#).
+- ⚛️ **Hope AI & HUD System** : Interface compagnon adaptative et architecture WebOS.
+- ⚙️ **R&D Lab** : Expérimentations polyglottes (C, C++, Python, JS, Web APIs, RBAC & Cloud Database).
+
+---  
 
 <!-- SÉPARATEUR NÉON -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a425-11eb-892c-170a23ac6180.gif" width="100%" />
@@ -58,31 +68,12 @@
 
   <!-- BANNIÈRE OU TITRE PRINCIPAL -->
   <h1>⚡ ALEXANDER // HDO ECOSYSTEM ⚡</h1>
-  <p><i>Web & Game Development | System Architecture | Adaptive AI Research</i></p>
 
-  <!-- BADGES DE LANGAGES & OUTILS -->
-  <p>
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  </p>
+
 
 </div>
 
----
 
-### 🚀 À propos & Projets HDO
-
-- 🌌 **HDO (Hope Dream Odyssey)** : Conception d'un écosystème multi-plateforme interconnecté.
-- 👾 **Stay Human** : Développement d'un jeu Space war sous Unity (C#).
-- ⚛️ **Hope AI & HUD System** : Interface compagnon adaptative et architecture WebOS.
-- ⚙️ **R&D Lab** : Expérimentations polyglottes (C, C++, Python, JS, Web APIs, RBAC & Cloud Database).
-
----
 
 ### 📊 Statistiques GitHub
 
