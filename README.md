@@ -24,8 +24,8 @@
 ### 🚀 À propos & Projets HDO
 
 - 🌌 **HDO (Hope Dream Odyssey)** : Conception d'un écosystème multi-plateforme interconnecté.
-- 👾 **Stay Human** : Développement d'un jeu Space RPG sous Unity (C#).
-- ⚛️ **Hop AI & HUD System** : Interface compagnon adaptative et architecture WebOS.
+- 👾 **Stay Human** : Développement d'un jeu Space war sous Unity (C#).
+- ⚛️ **Hope AI & HUD System** : Interface compagnon adaptative et architecture WebOS.
 - ⚙️ **R&D Lab** : Expérimentations polyglottes (C, C++, Python, JS, Web APIs, RBAC & Cloud Database).
 
 ---
@@ -33,8 +33,8 @@
 ### 📊 Statistiques GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_GITHUB&show_icons=true&theme=dark&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO_GITHUB&layout=compact&theme=dark" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LuCassporki&show_icons=true&theme=dark&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuCassporki&layout=compact&theme=dark" />
 </div>
 
 ---
