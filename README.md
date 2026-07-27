@@ -32,21 +32,34 @@
 
 ### 📊 Statistiques GitHub
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuCassporki&theme=react-dark" alt="Graphique d'activité GitHub" />
 </div>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuCassporki&theme=github_dark" />
 </div>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=LuCassporki&theme=github_dark" />
-</div> -->
+
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/LuCassporki?label=Followers&style=for-the-badge&color=21262d&logo=github" />
-  <img src="https://img.shields.io/github/stars/LuCassporki?label=Stars&style=for-the-badge&color=21262d&logo=github" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LuCassporki&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuCassporki&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+
+| Langage / Techno | Domaine d'Application HDO |
+| :--- | :--- |
+| **C# / Unity** | Moteur de jeu *Stay Human* & IA |
+| **C / C++** | R&D Système, Gestion Mémoire & Performance |
+| **JavaScript / Web** | Interfaces HDO UI, Async Modules & Architecture WebOS |
+| **Python** | Outillage, Scripts & Traitement de données |
+
+</div>
+
 
 ---
 
