@@ -43,63 +43,16 @@
 
  <div align="center">
  <p><i>Alpha Lambda Iota Gamma Epsilon</i></p>
-
-
-   
-<!-- LINK 1 : MAJOR INVENTORY (Bouton Glitch / Dark Red & Cyan) -->
-  <a href="https://stoker-porki.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/☠️_MAJOR_INVENTORY-CRITICAL_ACCESS-ff0055?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="Major Inventory" />
-  </a>
-
-  &nbsp;&nbsp;
-
-  <!-- LINK 2 : ATOME ELEMENTAIRE (Bouton Atom / Cyan Neon) -->
-  <a href="https://stoker-porki.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/⚛️_ATOME_ELEMENTAIRE-CORE_CONTACTS-00f0ff?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="Atome Elementaire" />
-  </a>
 </div>
-
-
-
-
+<!-- ACCÈS SECURISE HDO -->
 <div align="center">
-  <a href="https://stoker-porki.vercel.app/">
+  <p><b>SYSTEM CONNECTIONS</b></p>
+ <a href="https://stoker-porki.vercel.app/">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&pause=500&color=FF0055&center=true&vCenter=true&width=400&lines=%5B%20%21%20%5D+MAJOR+INVENTORY;%3E%3E+ACCESS_RESTRICTED_%3B%5B%20%21%20%5D+MAJOR+INVENTORY" alt="Major Inventory Glitch" />
   </a>
-</div>
-
-
-
-
-<div align="center">
   <a href="https://space-tree-core.vercel.app/" style="text-decoration: none;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&pause=1000&color=00F0FF&center=true&vCenter=true&width=150&lines=%E2%9A%9B%EF%B8%8F" alt="Atome Core" />
   </a>
-</div>
-
-
-
-
-
-
-
-<!-- ACCÈS SECURISE HDO -->
-<div align="center">
-
-  <p><b>SYSTEM CONNECTIONS</b></p>
-
-  <!-- MAJOR INVENTORY (GLITCH ACCESS) -->
-  <a href="https://stoker-porki.vercel.app/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=16&pause=800&color=FF2E63&center=true&vCenter=true&width=320&lines=%E2%98%A0%EF%B8%8F+MAJOR+INVENTORY+%5BGLITCHED%5D;%3E%3E+LOAD_STOKER_DATA..." alt="Major Inventory" />
-  </a>
-
-  <br><br>
-
-  <!-- ATOME CORE CONTACTS -->
-  <a href="https://space-tree-core.vercel.app/">
-    <img src="https://img.shields.io/badge/%E2%9A%9B%EF%B8%8F_ATOME_ELEMENTAIRE-COMMUNICATION_HUB-00f0ff?style=for-the-badge&logoColor=white&labelColor=050b14" alt="Atome Core" />
-  </a>
-
 </div>
 
 
