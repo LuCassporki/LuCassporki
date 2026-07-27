@@ -1,7 +1,6 @@
 ## Hello there 👋
 <div align="center">
 <p><i>αλιγε</i></p>
-<a href="https://stoker-porki.vercel.app/">test lien</a>
 
   <!-- TITRE ANIMÉ NÉON -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=⚡+ALEXANDER+%2F%2F+HDO+ARCHITECT+⚡;HOPE+DREAM+ODYSSEY+ECOSYSTEM;STAY+HUMAN+%2F%2F+UNITY+C%23+DEV;HOPE+AI+%2F%2F+ADAPTIVE+HUD+SYSTEM" alt="Header Typing" />
@@ -43,7 +42,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a425-11eb-892c-170a23ac6180.gif" width="100%" />
 
  <div align="center">
- <p><i>"Alpha Lambda Iota Gamma Epsilon"</i></p>
+ <p><i>Alpha Lambda Iota Gamma Epsilon</i></p>
+<a href="https://stoker-porki.vercel.app/">MAJOR INVENTORY</a>
 </div>
 
 ### 📊 Télémétrie GitHub
