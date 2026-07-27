@@ -38,6 +38,8 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuCassporki&theme=github_dark" />
+</div>
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=LuCassporki&theme=github_dark" />
 </div>
 
