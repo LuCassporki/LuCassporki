@@ -32,7 +32,7 @@
 
 ### 📊 Statistiques GitHub
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuCassporki&theme=react-dark" alt="Graphique d'activité GitHub" />
 </div>
 
@@ -41,7 +41,7 @@
 </div>
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=LuCassporki&theme=github_dark" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://img.shields.io/github/followers/LuCassporki?label=Followers&style=for-the-badge&color=21262d&logo=github" />
