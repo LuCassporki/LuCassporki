@@ -49,32 +49,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div align="center">
-
-  <!-- BANNIÈRE OU TITRE PRINCIPAL -->
-  <h1>⚡ ALEXANDER // HDO ECOSYSTEM ⚡</h1>
-
-
-
-</div>
-
-
-
 ### 📊 Statistiques GitHub
 
 <div align="center">
@@ -106,7 +80,10 @@
 ---
 
 <div align="center">
-  <p><i>"Forger l'armure, perfectionner la lumière."</i></p>
+  <p><i>"A.L.I.C.E"</i></p>
+  <p><i>"Alpha Lambda Iota Gamma Epsilon"</i></p>
+  <p><i>"Autonomus Light Interface & Core Essence"</i></p>
+  <p><i>"αλιγε"</i></p>
 </div>
 
 <!--
