@@ -33,8 +33,8 @@
 ### 📊 Statistiques GitHub
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=LuCassporki&show_icons=true&theme=dark&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuCassporki&layout=compact&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuCassporki&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=LuCassporki&theme=github_dark" />
 </div>
 
 ---
