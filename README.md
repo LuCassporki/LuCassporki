@@ -43,6 +43,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=LuCassporki&theme=github_dark" />
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/github/followers/LuCassporki?label=Followers&style=for-the-badge&color=21262d&logo=github" />
+  <img src="https://img.shields.io/github/stars/LuCassporki?label=Stars&style=for-the-badge&color=21262d&logo=github" />
+</div>
+
 ---
 
 <div align="center">
