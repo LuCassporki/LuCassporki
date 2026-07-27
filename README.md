@@ -51,7 +51,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&pause=500&color=FF0055&center=true&vCenter=true&width=400&lines=%5B%20%21%20%5D+MAJOR+INVENTORY;%3E%3E+ACCESS_RESTRICTED_%3B%5B%20%21%20%5D+MAJOR+INVENTORY" alt="Major Inventory Glitch" />
   </a>
   <a href="https://space-tree-core.vercel.app/" style="text-decoration: none;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&pause=1000&color=00F0FF&center=true&vCenter=true&width=150&lines=%E2%9A%9B%EF%B8%8F" alt="Atome Core" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&pause=100&color=00F0FF&center=true&vCenter=true&width=150&lines=%E2%9A%9B%EF%B8%8F" alt="Atome Core" />
   </a>
 </div>
 
