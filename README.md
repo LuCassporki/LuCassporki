@@ -3,7 +3,7 @@
 <p><i>αλιγε</i></p>
 
   <!-- TITRE ANIMÉ NÉON -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=⚡+ALEXANDER+%2F%2F+HDO+ARCHITECT+⚡;HOPE+DREAM+ODYSSEY+ECOSYSTEM;STAY+HUMAN+%2F%2F+UNITY+C%23+DEV;HOP+AI+%2F%2F+ADAPTIVE+HUD+SYSTEM" alt="Header Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=⚡+ALEXANDER+%2F%2F+HDO+ARCHITECT+⚡;HOPE+DREAM+ODYSSEY+ECOSYSTEM;STAY+HUMAN+%2F%2F+UNITY+C%23+DEV;HOPE+AI+%2F%2F+ADAPTIVE+HUD+SYSTEM" alt="Header Typing" />
 
   <p><i>"Forger l'armure, parfaire la lumière."</i></p>
 
