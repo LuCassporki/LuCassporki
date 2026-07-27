@@ -33,6 +33,10 @@
 ### 📊 Statistiques GitHub
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuCassporki&theme=react-dark" alt="Graphique d'activité GitHub" />
+</div>
+
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuCassporki&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=LuCassporki&theme=github_dark" />
 </div>
